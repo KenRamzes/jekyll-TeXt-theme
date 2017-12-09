@@ -18,7 +18,7 @@ I'm a student,studing in XD University
 
 平时喜欢看看电影，听听歌，打打游戏，是steam用户
 
-Usually like to watch movies,listen to songs,play games,is steam users
+Usually like to watch movies,listen to songs,play games,is a steam user
 
 如果你也喜欢打DOTA2,CSGO,PUBG等等steam游戏欢迎加我好友
 
