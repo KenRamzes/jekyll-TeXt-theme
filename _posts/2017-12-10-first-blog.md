@@ -25,11 +25,11 @@
    4、然后去[DNSPod][6]上进行域名解析，注意域名解析时填表如下：
 |主机记录|记录类型|线路类型|记录值|TTL|
 | -------| -----  |--------|------|---|
-|*       |A|默认|192.30.252.153|600
-|@       |A|默认|192.30.252.154|600
-|@       |NS|默认|f1g1ns1.dnspod.net.|86400
-|@       |NS|默认|f1g1ns2.dnspod.net.|86400
-|WWW     |CNAME|默认|username.github.io.|600
+|*       |A|默认|192.30.252.153|600|
+|@       |A|默认|192.30.252.154|600|
+|@       |NS|默认|f1g1ns1.dnspod.net.|86400|
+|@       |NS|默认|f1g1ns2.dnspod.net.|86400|
+|WWW     |CNAME|默认|username.github.io.|600|
 这个*username*是你fork完我的库后要改动的，要注意。
 **- 操作GitHub**
 
@@ -58,11 +58,17 @@
  
  **参考资料**
 1 | [一步步在GitHub上创建博客主页 全系列][11]| by pchou
+
 2 | [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门][12] by 阮一峰
+
 3 | [如何搭建个人博客][13] 知乎问题
+
 4 | [折腾了个Pacman主题][14] by yangjian
+
 5 | [hexo你的博客][15] by ibruce
+
 6 | [git/github初级运用自如][16] by 虫师
+
 7 | [Google][17] 自学成才
  
 
