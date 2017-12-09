@@ -15,7 +15,7 @@
 url:  https://kenramzes.com
 baseurl: /
 title: KenRamzes666's blog
-description: >  Imagination is more important than Knowledge
+description: > #this means to ignore newlines until "nav_lists:"
   KenRamzes666's Blog
 
 nav_lists:
