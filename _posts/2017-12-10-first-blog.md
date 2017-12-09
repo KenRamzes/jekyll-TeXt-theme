@@ -23,6 +23,7 @@
   ![][3]
  
  2、点击管理DNS。
+ 
   ![][4]
   
  3、将 GoDaddy 的 Nameservers 更改成 f1g1ns1.dnspod.net 和 f1g1ns2.dnspod.net
