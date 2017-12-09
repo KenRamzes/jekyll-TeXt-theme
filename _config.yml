@@ -12,11 +12,11 @@
 #    `--'   `----''--'   '--' `--'
 
 ## Base settings ##
-# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
+url:  https://kenramzes.com
 baseurl: /
-title: Someone's blog
+title: KenRamzes666's blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  KenRamzes666's Blog
 
 nav_lists:
   - titles:
