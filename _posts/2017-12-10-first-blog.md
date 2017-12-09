@@ -41,15 +41,21 @@
 |WWW     |CNAME|默认|username.github.io.|600|
 
 这个*username*是你fork完我的库后要改动的，要注意。
+
 **- 操作GitHub**
 
 
 
 *一、注册一个GitHub账号*
+
   点击[Github][7]按照步骤注册账号。
+  
 *二、fork我的库*
+
   点击[kenramzes666.github.io][8]把我的库fork到自己的账号里去。
+  
 *三、修改*
+
   1、点击setting将名称改为"username.github.io"(username是你的Github的名字)
   
   2、将库中的CNAME文件的内容改成你刚刚购买的域名
@@ -66,8 +72,11 @@
  
  
  **到这里一个简易的blog就搭建好了**
+ 
  我这里还有很多模板你可用[好的blog模板][9]
+ 
  文章修改在./test/_POST/内用MarkDown编辑器就能够完成博文的书写和上传了
+ 
  MarkDown编辑器我使用的是[Cmd MarkDown编辑阅读器][10]
  
  **参考资料**
