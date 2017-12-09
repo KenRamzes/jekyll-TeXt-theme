@@ -23,6 +23,8 @@
   3、将 GoDaddy 的 Nameservers 更改成 f1g1ns1.dnspod.net 和 f1g1ns2.dnspod.net
   ![][5]
    4、然后去[DNSPod][6]上进行域名解析，注意域名解析时填表如下：
+   
+   
 |主机记录|记录类型|线路类型|记录值|TTL|
 | -------| -----  |--------|------|---|
 |*       |A|默认|192.30.252.153|600|
@@ -30,6 +32,7 @@
 |@       |NS|默认|f1g1ns1.dnspod.net.|86400|
 |@       |NS|默认|f1g1ns2.dnspod.net.|86400|
 |WWW     |CNAME|默认|username.github.io.|600|
+
 这个*username*是你fork完我的库后要改动的，要注意。
 **- 操作GitHub**
 
@@ -44,6 +47,7 @@
   2、将库中的CNAME文件的内容改成你刚刚购买的域名
   3、打开_config.yml和about.md修改成你的个人信息
   4、将刚刚表格
+  
   |WWW     |CNAME|默认|username.github.io.|600|
   |-------|---|---|---|---|
  
