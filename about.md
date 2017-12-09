@@ -37,7 +37,7 @@ Ummm,I’m studing something about artificial intelligence,Embedded Systems,Quad
 
 I will put some learning materials, life experience and learning experience on my blog
 
-有任何问题欢迎发送至我的邮箱kenramzes@gmail.com|779659011@qq.com一起探讨学习!
+有任何问题欢迎发送至我的邮箱kenramzes@gmail.com或者779659011@qq.com一起探讨学习!
 
-It's my pleasure to discuss with you!My email addrss is kenramzes@gmail.com|779659011@qq.com
+It's my pleasure to discuss with you!My email addrss is kenramzes@gmail.com or 779659011@qq.com
 
