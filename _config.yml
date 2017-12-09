@@ -53,7 +53,7 @@ author:
 
 ## Comment system (Disqus) ##
 disqus:
-  # shortname:  #the Disqus shortname for the site
+  shortname:  kensblog-1
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
