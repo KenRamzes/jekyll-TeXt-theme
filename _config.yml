@@ -41,13 +41,13 @@ timezone: Asia/Shanghai
 
 ## Author & social ##
 author:
-  name: Someone
-  # email:  #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
-  # twitter:  #your Twitter username
-  # github:  #your GitHub username
-  # googleplus:  #your Google+ username
-  # weibo:  #your Weibo username
+  name:  肖俊瑞
+  email:  kenramzes@gmail.com
+  facebook:  kenramzes
+  twitter:  KenRamzes
+  github:  KenRamzes
+  googleplus:  kenramzes
+  weibo:  KenRamzes
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
 
