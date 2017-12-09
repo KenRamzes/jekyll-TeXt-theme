@@ -25,9 +25,10 @@
  2、点击管理DNS。
   ![][4]
   
-  3、将 GoDaddy 的 Nameservers 更改成 f1g1ns1.dnspod.net 和 f1g1ns2.dnspod.net
+ 3、将 GoDaddy 的 Nameservers 更改成 f1g1ns1.dnspod.net 和 f1g1ns2.dnspod.net
   ![][5]
-   4、然后去[DNSPod][6]上进行域名解析，注意域名解析时填表如下：
+   
+ 4、然后去[DNSPod][6]上进行域名解析，注意域名解析时填表如下：
    
    
 |主机记录|记录类型|线路类型|记录值|TTL|
@@ -49,8 +50,11 @@
   点击[kenramzes666.github.io][8]把我的库fork到自己的账号里去。
 *三、修改*
   1、点击setting将名称改为"username.github.io"(username是你的Github的名字)
+  
   2、将库中的CNAME文件的内容改成你刚刚购买的域名
+  
   3、打开_config.yml和about.md修改成你的个人信息
+  
   4、将刚刚表格
   
   |WWW     |CNAME|默认|username.github.io.|600|
@@ -66,6 +70,7 @@
  MarkDown编辑器我使用的是[Cmd MarkDown编辑阅读器][10]
  
  **参考资料**
+ 
 1 | [一步步在GitHub上创建博客主页 全系列][11]| by pchou
 
 2 | [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门][12] by 阮一峰
