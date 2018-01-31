@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 title: Ubuntu安装Caffe-GPU
 key: 20180131
 tags: 学习 环境搭建 ubuntu opencv 新手 caffe-GPU nvidia驱动 环境搭建 opencv
 ---
 
-[TOC]
+
 
 #### 写在前面
 
@@ -531,5 +531,5 @@ make all
 
 ![caffe运行](https://raw.githubusercontent.com/KenRamzes/KenRamzes.github.io/master/MarkdownPhotos/Res/caffe运行.png)
 
-#### 
+#### 有问题欢迎发我邮箱kenramzes@gmail.com讨论交流
 
